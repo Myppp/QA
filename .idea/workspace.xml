@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18255b05-d988-4c40-bae8-8e5c8ef9d3d6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/SimpleDateFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/SimpleDateFormat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/WebDriverSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/WebDriverSettings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/aisubp/azk/AutoQA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/aisubp/azk/AutoQA.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,8 +18,8 @@
       <file leaf-file-name="AutoQA.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+            <state relative-caret-position="335">
+              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="239" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -352,20 +346,11 @@
       <workItem from="1540280553655" duration="11500000" />
       <workItem from="1541751708032" duration="16776000" />
       <workItem from="1542013624141" duration="11416000" />
-      <workItem from="1543241828114" duration="4902000" />
+      <workItem from="1543241828114" duration="5159000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AutoQA - 2018.11.26 at 16h 58m 51s.xml">
-      <configuration name="AutoQA" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AutoQA - 2018.11.26 at 16h 59m 46s.xml">
-      <configuration name="AutoQA" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AutoQA - 2018.11.26 at 17h 11m 16s.xml">
-      <configuration name="AutoQA" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AutoQA - 2018.11.26 at 17h 28m 33s.xml">
       <configuration name="AutoQA" configurationId="JUnit" />
     </history-entry>
@@ -387,9 +372,18 @@
     <history-entry file="AutoQA - 2018.11.26 at 17h 43m 36s.xml">
       <configuration name="AutoQA" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AutoQA - 2018.11.26 at 17h 45m 02s.xml">
+      <configuration name="AutoQA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AutoQA - 2018.11.26 at 17h 45m 44s.xml">
+      <configuration name="AutoQA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AutoQA - 2018.11.26 at 17h 46m 14s.xml">
+      <configuration name="AutoQA" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67224000" />
+    <option name="totallyTimeSpent" value="67481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -622,8 +616,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        <state relative-caret-position="335">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="239" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
