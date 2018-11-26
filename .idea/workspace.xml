@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18255b05-d988-4c40-bae8-8e5c8ef9d3d6" name="Default" comment="" />
+    <list default="true" id="18255b05-d988-4c40-bae8-8e5c8ef9d3d6" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/SimpleDateFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/SimpleDateFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/WebDriverSettings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/WebDriverSettings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/aisubp/azk/AutoQA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ru/aisubp/azk/AutoQA.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,20 +21,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AutoQA.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AutoQA.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="374">
+              <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -34,8 +36,8 @@
       <file leaf-file-name="WebDriverSettings.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/WebDriverSettings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+            <state relative-caret-position="294">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -46,8 +48,8 @@
       <file leaf-file-name="SimpleDateFormat.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/SimpleDateFormat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="204">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,6 +66,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -72,10 +77,10 @@
         <option value="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/FirstTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/ScreenShots.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/ScreenshotListener.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/SimpleDateFormat.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/WebDriverSettings.java" />
         <option value="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -96,19 +101,18 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="50" />
+    <option name="x" value="-206" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1920" />
+    <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,6 +150,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,6 +174,17 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.AutoQA">
+    <configuration name="SimpleDateFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.aisubp.azk.SimpleDateFormat" />
+      <module name="QA" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.aisubp.azk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -263,29 +280,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="FirstTest.firstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="QA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.deliveryClub.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ru.deliveryClub" />
-      <option name="MAIN_CLASS_NAME" value="ru.deliveryClub.FirstTest" />
-      <option name="METHOD_NAME" value="firstTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -325,19 +319,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.FirstTest.firstTest" />
       <item itemvalue="JUnit.FirstTest" />
       <item itemvalue="JUnit.FirstTest (1)" />
       <item itemvalue="JUnit.AutoQA" />
       <item itemvalue="JUnit.AutoQA.firstTest" />
+      <item itemvalue="Application.SimpleDateFormat" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.AutoQA" />
+        <item itemvalue="Application.SimpleDateFormat" />
         <item itemvalue="JUnit.AutoQA.firstTest" />
         <item itemvalue="JUnit.FirstTest (1)" />
         <item itemvalue="JUnit.FirstTest" />
-        <item itemvalue="JUnit.FirstTest.firstTest" />
       </list>
     </recent_temporary>
   </component>
@@ -356,44 +350,46 @@
       <workItem from="1539338159129" duration="12012000" />
       <workItem from="1540278816770" duration="459000" />
       <workItem from="1540280553655" duration="11500000" />
-      <workItem from="1541751708032" duration="13143000" />
+      <workItem from="1541751708032" duration="16776000" />
+      <workItem from="1542013624141" duration="11416000" />
+      <workItem from="1543241828114" duration="4902000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AutoQA - 2018.11.09 at 12h 40m 57s.xml">
+    <history-entry file="AutoQA - 2018.11.26 at 16h 58m 51s.xml">
       <configuration name="AutoQA" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AutoQA - 2018.11.09 at 12h 46m 21s.xml">
+    <history-entry file="AutoQA - 2018.11.26 at 16h 59m 46s.xml">
       <configuration name="AutoQA" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AutoQA - 2018.11.09 at 12h 46m 55s.xml">
+    <history-entry file="AutoQA - 2018.11.26 at 17h 11m 16s.xml">
       <configuration name="AutoQA" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AutoQA - 2018.11.09 at 12h 47m 22s.xml">
+    <history-entry file="AutoQA - 2018.11.26 at 17h 28m 33s.xml">
       <configuration name="AutoQA" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AutoQA - 2018.11.09 at 12h 47m 51s.xml">
+    <history-entry file="AutoQA - 2018.11.26 at 17h 29m 13s.xml">
       <configuration name="AutoQA" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AutoQA - 2018.11.09 at 12h 48m 11s.xml">
+    <history-entry file="AutoQA - 2018.11.26 at 17h 32m 50s.xml">
       <configuration name="AutoQA" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AutoQA - 2018.11.09 at 12h 53m 27s.xml">
+    <history-entry file="AutoQA - 2018.11.26 at 17h 38m 43s.xml">
       <configuration name="AutoQA" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AutoQA - 2018.11.09 at 12h 54m 58s.xml">
+    <history-entry file="AutoQA - 2018.11.26 at 17h 40m 01s.xml">
       <configuration name="AutoQA" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AutoQA_firstTest - 2018.11.09 at 13h 33m 18s.xml">
-      <configuration name="AutoQA.firstTest" configurationId="JUnit" />
+    <history-entry file="AutoQA - 2018.11.26 at 17h 41m 37s.xml">
+      <configuration name="AutoQA" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AutoQA - 2018.11.09 at 13h 45m 25s.xml">
+    <history-entry file="AutoQA - 2018.11.26 at 17h 43m 36s.xml">
       <configuration name="AutoQA" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47273000" />
+    <option name="totallyTimeSpent" value="67224000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -408,12 +404,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32943678" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15625" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13489583" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -437,18 +433,74 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/SimpleDateFormat.java</url>
-          <line>6</line>
-          <properties field="dateFormat" class="ru.aisubp.azk.SimpleDateFormat" />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="11" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/WebDriverSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/SimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="42" lean-forward="true" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/WebDriverSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/SimpleDateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -460,9 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -477,9 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -547,10 +593,27 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/ScreenshotListener.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/SimpleDateFormat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="204">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/WebDriverSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -559,25 +622,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/WebDriverSettings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        <state relative-caret-position="374">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>

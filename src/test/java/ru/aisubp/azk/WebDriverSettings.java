@@ -18,7 +18,7 @@ public class WebDriverSettings {
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
         driver.manage().timeouts().pageLoadTimeout(30, TimeUnit.SECONDS);
         System.out.println("Web Driver успешно настроен и запущен!");
-        driver.get("https://srv-asugf/index.jsp");
+        driver.get("http://srv-asugf/login.jsp");
         driver.findElement(By.id("login")).sendKeys("root");
         driver.findElementById("password").sendKeys("toor");
         driver.findElement(By.id("submit")).click();
