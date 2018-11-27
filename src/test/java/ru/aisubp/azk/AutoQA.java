@@ -31,7 +31,7 @@ public class AutoQA extends WebDriverSettings {
             driver.findElementByXPath("/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/img[1]").click();
 
             Actions action = new Actions(driver);
-            WebElement element = driver.findElementById("1");
+            WebElement element = driver.findElementById("jqg_1");
             action.contextClick(element).perform();
         }
         else {

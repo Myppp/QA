@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="18255b05-d988-4c40-bae8-8e5c8ef9d3d6" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/aisubp/azk/AutoQA.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,8 +18,8 @@
       <file leaf-file-name="AutoQA.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+            <state relative-caret-position="178">
+              <caret line="33" column="62" selection-start-line="33" selection-start-column="62" selection-end-line="33" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -351,17 +350,11 @@
       <workItem from="1541751708032" duration="16776000" />
       <workItem from="1542013624141" duration="11416000" />
       <workItem from="1543241828114" duration="23378000" />
-      <workItem from="1543314578193" duration="15184000" />
+      <workItem from="1543314578193" duration="15923000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AutoQA - 2018.11.27 at 16h 12m 50s.xml">
-      <configuration name="AutoQA" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AutoQA - 2018.11.27 at 16h 25m 15s.xml">
-      <configuration name="AutoQA" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AutoQA - 2018.11.27 at 16h 28m 06s.xml">
       <configuration name="AutoQA" configurationId="JUnit" />
     </history-entry>
@@ -386,9 +379,15 @@
     <history-entry file="AutoQA - 2018.11.27 at 17h 11m 54s.xml">
       <configuration name="AutoQA" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AutoQA - 2018.11.27 at 17h 20m 35s.xml">
+      <configuration name="AutoQA" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AutoQA - 2018.11.27 at 17h 22m 55s.xml">
+      <configuration name="AutoQA" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100884000" />
+    <option name="totallyTimeSpent" value="101623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -679,8 +678,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+        <state relative-caret-position="178">
+          <caret line="33" column="62" selection-start-line="33" selection-start-column="62" selection-end-line="33" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
