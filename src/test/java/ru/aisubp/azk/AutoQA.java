@@ -1,8 +1,12 @@
 package ru.aisubp.azk;
 
 import org.junit.Test;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 
 import java.io.File;
+import java.util.List;
 
 
 public class AutoQA extends WebDriverSettings {
@@ -25,10 +29,9 @@ public class AutoQA extends WebDriverSettings {
             System.out.println("Панель фильтрации открыта.");
             driver.findElementByXPath("/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[12]/table[1]/tbody[1]/tr[2]/td[2]/em[1]/button[1]").click();
             driver.findElementByXPath("/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/img[1]").click();
-            Thread.sleep(3000);
-            driver.findElementByXPath("/html[1]/body[1]/div[18]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[3]/div[3]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/input[1]").click();
-            //driver.switchTo().frame(1);
-            //System.out.println("Переключился на второй фрейм");
+
+            Actions action = new Actions(driver);
+            action.moveToElement(driver.findElementByClassName("ui-cell-hover")).doubleClick().perform();
         }
         else {
             System.out.println("Панель фильтрации закрыта");
