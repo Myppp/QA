@@ -31,7 +31,8 @@ public class AutoQA extends WebDriverSettings {
             driver.findElementByXPath("/html[1]/body[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]/img[1]").click();
 
             Actions action = new Actions(driver);
-            action.moveToElement(driver.findElementByClassName("ui-cell-hover")).doubleClick().perform();
+            WebElement element = driver.findElementById("1");
+            action.contextClick(element).perform();
         }
         else {
             System.out.println("Панель фильтрации закрыта");
