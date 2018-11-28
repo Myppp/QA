@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18255b05-d988-4c40-bae8-8e5c8ef9d3d6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,8 +18,8 @@
       <file leaf-file-name="AutoQA.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
-              <caret line="33" column="62" selection-start-line="33" selection-start-column="62" selection-end-line="33" selection-end-column="62" />
+            <state relative-caret-position="479">
+              <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,9 +94,8 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-206" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1920" />
     <option name="width" value="1920" />
     <option name="height" value="1040" />
   </component>
@@ -350,14 +349,11 @@
       <workItem from="1541751708032" duration="16776000" />
       <workItem from="1542013624141" duration="11416000" />
       <workItem from="1543241828114" duration="23378000" />
-      <workItem from="1543314578193" duration="15923000" />
+      <workItem from="1543314578193" duration="16993000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AutoQA - 2018.11.27 at 16h 28m 06s.xml">
-      <configuration name="AutoQA" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AutoQA - 2018.11.27 at 16h 32m 29s.xml">
       <configuration name="AutoQA" configurationId="JUnit" />
     </history-entry>
@@ -385,12 +381,15 @@
     <history-entry file="AutoQA - 2018.11.27 at 17h 22m 55s.xml">
       <configuration name="AutoQA" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AutoQA - 2018.11.27 at 22h 10m 28s.xml">
+      <configuration name="AutoQA" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101623000" />
+    <option name="totallyTimeSpent" value="102693000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1920" y="0" width="1920" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -403,11 +402,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32943678" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33513513" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.119791664" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12079832" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -678,8 +677,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/ru/aisubp/azk/AutoQA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="33" column="62" selection-start-line="33" selection-start-column="62" selection-end-line="33" selection-end-column="62" />
+        <state relative-caret-position="479">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
